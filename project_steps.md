@@ -5,3 +5,5 @@
 ### Steps: High level
 1. Identify an ecommerce website and try to fetch reviews from that website's products using beautiful soup.
 2. Use the reviews to generate a sentiment analysis report. 
+3. We will create an API endpoint to take in the link of a product and return the sentiment analysis report.
+4. Build a gui around the api.
